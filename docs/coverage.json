@@ -1,0 +1,26 @@
+{
+  "coverage": "77.41%",
+  "expectCount": 31,
+  "actualCount": 24,
+  "files": {
+    "src/index.js": {
+      "expectCount": 30,
+      "actualCount": 24,
+      "undocumentLines": [
+        1,
+        2,
+        3,
+        4,
+        7,
+        8
+      ]
+    },
+    "src/throw-if-missing.js": {
+      "expectCount": 1,
+      "actualCount": 0,
+      "undocumentLines": [
+        3
+      ]
+    }
+  }
+}
