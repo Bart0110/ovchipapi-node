@@ -23,7 +23,7 @@ build
 test.js
 
 # These docs are generated
-docs/
+#docs/
 
 # Intellij
 .idea/
