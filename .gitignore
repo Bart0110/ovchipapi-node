@@ -1,0 +1,29 @@
+### Node template
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Dependency directory
+# https://docs.npmjs.com/misc/faq#should-i-check-my-node-modules-folder-into-git
+node_modules
+
+# We don't need temp files on GitHub
+tmp
+
+# Transpiled ES5 code
+build
+
+# Testing
+test.js
+
+# These docs are generated
+docs/
+
+# Intellij
+.idea/

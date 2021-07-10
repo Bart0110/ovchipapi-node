@@ -1,0 +1,34 @@
+### Node template
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# We don't need temp files
+tmp
+
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+build/Release
+
+# Original source code
+src/
+
+# misc files
+.babelrc
+.esdoc.json
+yarn.lock
+gulpfile.babel.js
+
+# Testing
+test.js
+
+# These docs are generated
+docs/
+
+# Intellij
+.idea/

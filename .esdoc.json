@@ -1,0 +1,9 @@
+{
+    "source": "./src",
+    "destination": "./docs",
+    "plugins": [{"name": "esdoc-standard-plugin"}],
+    "includes": [".js$"],
+    "excludes": ["(node_modules|build|docs|views|gulpfile*|test.js)"],
+    "index": "./README.md",
+    "package": "./package.json"
+}
